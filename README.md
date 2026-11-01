@@ -8,7 +8,7 @@ Recursive spectral modularity bisection implemented from scratch with NumPy, Net
 
 | File | Description |
 |---|---|
-| `dsc212-karate-club-modularity.ipynb` | The notebook, already executed. All outputs and all 10 figures are embedded, so they show directly on GitHub |
+| `DSc_212_karate_club_modularity.ipynb` | The notebook, already executed. All outputs and all 10 figures are embedded, so they show directly on GitHub |
 | `README.md` | This file |
 
 ## How to run
