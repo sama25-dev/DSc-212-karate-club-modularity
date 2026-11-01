@@ -2,7 +2,7 @@
 
 Recursive spectral modularity bisection implemented from scratch with NumPy, NetworkX and Matplotlib on Zachary's Karate Club network, followed by node-metric tracking (degree, betweenness, closeness, clustering) after every split.
 
-**Author:** Aditya Sarikar, MIT Vishwaprayag University, Solapur
+**Author:** Samarth Kadabagavi, IISER, TVM
 
 ## Files
 
