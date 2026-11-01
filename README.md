@@ -18,7 +18,7 @@ pip install numpy "networkx>=3.0" matplotlib jupyter
 jupyter notebook dsc212-karate-club-modularity.ipynb   # then: Kernel -> Restart & Run All
 ```
 
-The notebook needs no input files and no internet connection, is deterministic (fixed layout seed, no random numbers) and runs in about 10 seconds. When run, it also saves PNG copies of the figures into a `figures/` folder next to the notebook.
+The notebook needs no input files and no internet connection, is deterministic (fixed layout seed, no random numbers) and runs in about 10 seconds.
 
 Tested with Python 3.13, NumPy 2.5.3, NetworkX 3.7, Matplotlib 3.11.2.
 
